@@ -2,7 +2,7 @@
 
 ## Introduction
 
-No two people see color the same way. What you see as blue somewhat else might call cyan or turquoise. If we all saw the world the same way, there would be no individuality. There would be no arguments. There would be no problems to solve. There would be no progress. You always hear about *the* design process. The right way to do something. The correct way to approach a situation. But what happens when the “right” approach doesn’t work for you?
+No two people see color the same way. What you see as blue somewhat else might call cyan or turquoise. If we all saw the world the same way, there would be no individuality. There would be no arguments. There would be no problems to solve. There would be no progress. You always hear about the design process. The right way to do something. The correct way to approach a situation. But what happens when the “right” approach doesn’t work for you?
 
 Having an individual design process creates an environment for healthy and strong ideas to grow. This course has taught me to think deeper about my design process. I usually just do things without much thought into each individual step. To me, the process has always been stepping blocks towards a final goal. Usually, this means I rush through different stages of the design process. This class has taught me to take a step back and take a closer look at how I approach a problem. 
 
@@ -13,6 +13,8 @@ This class has been rapid fire design, but my advice for anyone looking to impro
 ## Brainstorm like the wind
 
 There are many different ways to brainstorm. We utilized many of these techniques throughout the course. We had individual time to think about the problem then collected all the thoughts in a sticky note exercise which is pictured below.
+
+ ![Stickynote brainstorm](design-manifesto/images/IMG_8340.png)
 
 We had stream of consciousness brainstorms both during the topic picking phase of some of the projects and during the smaller subtasks for our final product. Pictured below is a product brainstorm for the design for wellbeing design sprint, and a subtask brainstorm for when we decided which topics we wanted to talk about in our chatbot. 
 
