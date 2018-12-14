@@ -1,4 +1,7 @@
 # My Design Manifesto
+By Lynne Moore
+
+CS 3043, Human Computer Interaction Final Portfolio
 
 ## Introduction
 
