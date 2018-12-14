@@ -14,8 +14,8 @@ This class has been rapid fire design, but my advice for anyone looking to impro
 
 There are many different ways to brainstorm. We utilized many of these techniques throughout the course. We had individual time to think about the problem then collected all the thoughts in a sticky note exercise which is pictured below.
 
- Inline-style: 
-![Stickynote Brainstorm](https://github.com/thisdogcodes/design-manifesto/images/IMG_8340.png "Brainstorm for Design for Understanding")
+
+![Stickynote Brainstorm](/images/img_8340.jpg)
 
 We had stream of consciousness brainstorms both during the topic picking phase of some of the projects and during the smaller subtasks for our final product. Pictured below is a product brainstorm for the design for wellbeing design sprint, and a subtask brainstorm for when we decided which topics we wanted to talk about in our chatbot. 
 
