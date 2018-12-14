@@ -14,7 +14,8 @@ This class has been rapid fire design, but my advice for anyone looking to impro
 
 There are many different ways to brainstorm. We utilized many of these techniques throughout the course. We had individual time to think about the problem then collected all the thoughts in a sticky note exercise which is pictured below.
 
- ![Stickynote brainstorm](design-manifesto/images/IMG_8340.JPG)
+ Inline-style: 
+![Stickynote Brainstorm](https://github.com/thisdogcodes/design-manifesto/images/IMG_8340.png "Brainstorm for Design for Understanding")
 
 We had stream of consciousness brainstorms both during the topic picking phase of some of the projects and during the smaller subtasks for our final product. Pictured below is a product brainstorm for the design for wellbeing design sprint, and a subtask brainstorm for when we decided which topics we wanted to talk about in our chatbot. 
 
@@ -52,19 +53,19 @@ These five elements have helped me tremendously throughout Human Computer Intera
 
 ### My Design Sprints
 
-[Good Design](https://medium.com/@lmbruinsfan98/good-design-fccd436bd5c3)
+- [Good Design](https://medium.com/@lmbruinsfan98/good-design-fccd436bd5c3)
 
-[Bad Design](https://medium.com/@lmbruinsfan98/bad-design-71b759e421d2)
+- [Bad Design](https://medium.com/@lmbruinsfan98/bad-design-71b759e421d2)
 
-[Design for Others](https://medium.com/@mastlouis/team-5-project-1-design-documentation-b429311d9139)
+- [Design for Others](https://medium.com/@mastlouis/team-5-project-1-design-documentation-b429311d9139)
 
-[Design for Understanding](https://medium.com/@lmbruinsfan98/design-for-understanding-82d36cc54364)
+- [Design for Understanding](https://medium.com/@lmbruinsfan98/design-for-understanding-82d36cc54364)
 
-[Design For Tension](https://medium.com/@lmbruinsfan98/design-for-tension-8447c4db3dae)
+- [Design For Tension](https://medium.com/@lmbruinsfan98/design-for-tension-8447c4db3dae)
 
-[Design for Wellbeing](https://medium.com/@lmbruinsfan98/design-for-tension-8447c4db3dae)
+- [Design for Wellbeing](https://medium.com/@lmbruinsfan98/design-for-tension-8447c4db3dae)
 
-[Design for Another World](https://medium.com/@jaredgrimm1/design-for-another-world-6c6c11c082d0)
+- [Design for Another World](https://medium.com/@jaredgrimm1/design-for-another-world-6c6c11c082d0)
 
 
 
