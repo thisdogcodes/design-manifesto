@@ -21,7 +21,11 @@ There are many different ways to brainstorm. We utilized many of these technique
 
 We had stream of consciousness brainstorms both during the topic picking phase of some of the projects and during the smaller subtasks for our final product. Pictured below is a product brainstorm for the design for wellbeing design sprint, and a subtask brainstorm for when we decided which topics we wanted to talk about in our chatbot. 
 
-![Idea Brainstorm](/assets/images.JPG), ![Sub Brainstorm](/assets/Brainstorm.JPG)
+
+Idea Brainstorm                        |  Intermediate BRainstorm
+:-------------------------------------:|:-------------------------:
+![Idea Brainstorm](/assets/images.JPG  |  ![Sub Brainstorm](/assets/Brainstorm.JPG)
+
 
 Brainstorming can be done at any time during the design process, which is why I believe it is the most important part of the design process. It can be utilized when trying to figure out what to portray and can also be used when trying to find the best ways to portray such data. We also utilized the 5-brainstorming sheet technique, which shows the evolution from the initial brainstorm to the final decision made before actual implementation. 
 
