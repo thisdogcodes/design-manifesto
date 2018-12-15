@@ -21,13 +21,11 @@ There are many different ways to brainstorm. We utilized many of these technique
 
 We had stream of consciousness brainstorms both during the topic picking phase of some of the projects and during the smaller subtasks for our final product. Pictured below is a product brainstorm for the design for wellbeing design sprint, and a subtask brainstorm for when we decided which topics we wanted to talk about in our chatbot. 
 
-
-Idea Brainstorm                         |  Intermediate Brainstorm
-:--------------------------------------:|:------------------------------------------:
-![Idea Brainstorm](/assets/images.JPG)  |  ![Sub Brainstorm](/assets/Brainstorm.JPG)
-
+![Idea Brainstorm](/assets/images.JPG)  
 
 Brainstorming can be done at any time during the design process, which is why I believe it is the most important part of the design process. It can be utilized when trying to figure out what to portray and can also be used when trying to find the best ways to portray such data. We also utilized the 5-brainstorming sheet technique, which shows the evolution from the initial brainstorm to the final decision made before actual implementation. 
+
+![Sub Brainstorm](/assets/Brainstorm.JPG)
 
 
 ## Don't be afraid to reevaluate (Evolution is Inevitable)
@@ -61,9 +59,11 @@ I personally enjoyed the redesign of a existing website, as it allowed us to foc
 User testing gives real life unbiased feedback to a product. You can stare at your interface for hours and believe it is the best thing you have ever produced, but the smallest things could be off about it. Utilizing the user testers was something I did not think was going to be very helpful. I was proven wrong, specifically for the charts in the design for understanding design sprint. One of our testers pointed out that our graphs were off, something that I, as the designer, did not notice. I felt good about the prototype being presented, but the tester was able to show me there was an issue. This allowed me to fix it and helped my team members fix any issues they were also having with their graphs. Below is the before and after pictures of the graphs where the data was wrong. 
 
 
-Before User Testing (Bad prototype)         |  After User Testing (Good Prototype
-:------------------------------------------:|:------------------------------------------:
-![Bad Prototype](/assets/badprototypes.JPG) |  ![Good Prototype](/assets/actualcorrectdatafullproto.JPG)
+Before User Testing (Bad prototype)        
+![Bad Prototype](/assets/badprototypes.JPG) 
+
+After User Testing (Good Prototype)
+![Good Prototype](/assets/actualcorrectdatafullproto.JPG)
 
 
 ## Conclusion
